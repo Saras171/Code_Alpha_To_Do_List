@@ -74,7 +74,7 @@ Live site Url: [To-Do App](https://to-do-list-frontend-plum.vercel.app/)
 ### 1. Clone the Repository
 
 ```bash
-git clone
+git clone https://github.com/Saras171/Code_Alpha_To_Do_List.git
 cd to-do-list
 ```
 ### 2. Setup Frontend
@@ -120,7 +120,7 @@ SUPABASE_KEY=your_supabase_anon_key
 - Notifications and reminders
 ---
 ## Author
-- GitHub Account: [@Saras171](https://github.com/saras171)
+- GitHub Repository: [To-Do App](https://github.com/Saras171/Code_Alpha_To_Do_List.git)
 ---
 ## Contributing
 
